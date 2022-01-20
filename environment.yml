@@ -1,0 +1,9 @@
+name: comp30830
+channels:
+  - defaults
+dependencies:
+  - python=3.9.7
+  - jupyterlab
+  - numpy
+  - pandas
+prefix: C:\Users\mithu\anaconda3\envs\comp30830
